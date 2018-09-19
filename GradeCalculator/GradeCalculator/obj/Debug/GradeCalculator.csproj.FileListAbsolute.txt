@@ -1,0 +1,10 @@
+C:\C#2015\Extra Excercises\Chapter3\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.exe.config
+C:\C#2015\Extra Excercises\Chapter3\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.exe
+C:\C#2015\Extra Excercises\Chapter3\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.pdb
+C:\C#2015\Extra Excercises\Chapter3\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.csprojAssemblyReference.cache
+C:\C#2015\Extra Excercises\Chapter3\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.Form1.resources
+C:\C#2015\Extra Excercises\Chapter3\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.Properties.Resources.resources
+C:\C#2015\Extra Excercises\Chapter3\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.csproj.GenerateResource.cache
+C:\C#2015\Extra Excercises\Chapter3\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.csproj.CoreCompileInputs.cache
+C:\C#2015\Extra Excercises\Chapter3\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.exe
+C:\C#2015\Extra Excercises\Chapter3\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.pdb
